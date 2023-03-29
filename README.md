@@ -2,7 +2,8 @@
 <h3> 📚 Github Stats: <br></h3>
   
 <div>
-  <a href="[https://github.com/simaovillelal](https://github.com/simaovillela)"> 
+  <div>
+  <a href="[https://github.com/simaovillela](https://github.com/simaovillela)"> 
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=simaovillela&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaovillela&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
